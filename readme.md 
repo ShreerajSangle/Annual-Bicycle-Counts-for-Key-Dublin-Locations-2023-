@@ -1,0 +1,33 @@
+# Cycle CA Analysis
+
+This README file provides details about the contents, purpose, and instructions for using the `main.ipynb` Jupyter Notebook file.
+
+## Overview
+
+The `main.ipynb` notebook is a Python-based analysis file. It is designed for numerical computations, data visualization, and possibly some specific data analysis tasks. The project context and detailed objectives will depend on its actual content.
+
+## Features
+- **Data Handling**: Designed to read, clean, and re-run information.
+
+## Requirements
+- **Python Version**: Python 3.12.4
+- **Libraries**: The following libraries need to be installed:
+  - `numpy`
+  - `pandas`
+  - `matplotlib`
+  - `seaborn`
+  - `scipy`
+  - `jupyter`
+  - `csv`
+  - `sklearn`
+  - `scikit-learn`
+  - `statsmodels`
+To install the required libraries, run the following command:
+```bash
+pip install numpy pandas matplotlib seaborn scipy jupyter
+```
+
+
+
+ 
+
